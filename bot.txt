@@ -1,0 +1,7 @@
+// create server on discord & pick the option with a custom server
+// under settinf > advance > turn on developer option
+// go to discord.com/developers and register a application
+// fill up the gernel information about the application 
+// fill up the application type at Oauth section and pick CLIENT ID and URL
+// bot section provides you special access token
+// develop app.js with node environment and a dependency called discord.js as suggested in their docs
