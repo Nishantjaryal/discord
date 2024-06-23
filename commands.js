@@ -7,6 +7,10 @@ const commands = [
       name: 'ping',
       description: 'Replies with Pong!',
     },
+    {
+      name: 'short',
+      description: 'takes long url, returns short url',
+    },
   ];
 
 
